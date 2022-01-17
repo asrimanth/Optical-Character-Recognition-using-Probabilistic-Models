@@ -1,4 +1,4 @@
-# Optical-Character-Recognition-using-Probabilistic-Models
+# Optical Character Recognition using Probabilistic Models
 
 Command to run the program:
 
